@@ -68,7 +68,8 @@ def get_route():
 
 <h2>Screenshots</h2>
 <p>Here's a quick look at the app in action:</p>
-<img src="screenshot.png" alt="App Screenshot">
+<img <img width="868" alt="image" src="https://github.com/user-attachments/assets/b207ce18-e667-4b49-a830-68fccb8aa6b7">
+>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <code>LICENSE</code> file for details.</p>
